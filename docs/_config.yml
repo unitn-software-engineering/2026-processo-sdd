@@ -1,6 +1,8 @@
 title: AI-Native SDLC
 description: Percorso didattico progressivo per il corso IS 2026 — Ingegneria del Software
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
 url: https://software-engineering-unitn.github.io
 baseurl: /2026-processo-sdd
 
